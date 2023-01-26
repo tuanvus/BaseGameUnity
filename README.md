@@ -1,6 +1,7 @@
 # BaseGameUnity
 
-  -  plugins :  \n
+  -  plugins :
+
               + C# Generator : https://assetstore.unity.com/packages/tools/utilities/c-generator-238209
               + Await Extensions : https://assetstore.unity.com/packages/tools/integration/await-extensions-127006
               + Extensions : https://assetstore.unity.com/packages/tools/utilities/extensions-214756
